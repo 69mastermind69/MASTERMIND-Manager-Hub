@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#0F1220"
+        android:pathData="M0,0 H108 V108 H0 Z" />
+
+    <!-- Rounded center panel -->
+    <path
+        android:fillColor="#1D2237"
+        android:pathData="M18,18 H90 Q96,18 96,24 V84 Q96,90 90,90 H18 Q12,90 12,84 V24 Q12,18 18,18 Z" />
+
+    <!-- Stylized M -->
+    <path
+        android:fillColor="#6473FF"
+        android:pathData="M27,72 V36 H36 L48,52 L60,36 H69 V72 H59 V51 L48,66 L37,51 V72 Z" />
+
+    <!-- Accent node -->
+    <path
+        android:fillColor="#36D9C5"
+        android:pathData="M76,31 A6,6 0,1 0,76 19 A6,6 0,1 0,76 31 Z" />
+
+</vector>
